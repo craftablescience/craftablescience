@@ -4,4 +4,4 @@ You can also join my Discord server at [discord.gg/ASgHFkX](https://discord.gg/A
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=craftablescience&show_icons=true&theme=radical")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftablescience)](https://github.com/anuraghazra/github-readme-stats)
